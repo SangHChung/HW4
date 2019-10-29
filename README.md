@@ -8,4 +8,4 @@ by: Sang Hun Chung
 
 Kaggle: https://www.kaggle.com/SangHChung
 
-Classifier: Logistic Regressor
+Classifier: SVC order 2
